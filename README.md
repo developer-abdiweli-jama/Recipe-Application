@@ -45,11 +45,11 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://dummyimage.com/800x450/1a1a1a/ffffff&text=Recipe+Gallery+View" width="100%" alt="Gallery View Placeholder" />
+  <img src="src/assets/Gelery view.png" width="100%" alt="Gallery View Placeholder" />
 </p>
 
 <p align="center">
-  <img src="https://dummyimage.com/800x450/1a1a1a/ffffff&text=Immersive+Recipe+Detail" width="100%" alt="Detail View Placeholder" />
+  <img src="src/assets/Detail page.png" width="100%" alt="Detail View Placeholder" />
 </p>
 
 > ⚡ Real screenshots demonstrating the Glassmorphism and animations will be added soon.
